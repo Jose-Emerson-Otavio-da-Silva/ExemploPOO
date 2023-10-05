@@ -7,6 +7,10 @@ namespace ExemploPOO.Models
 {
     public class Aluno : Pessoa
     {
+        public Aluno(string nome) : base(nome)
+        {
+
+        }
         public double Nota { get; set; }
 
         //A palavra override informa que estou sobreescrevendo o método da classe pai

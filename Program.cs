@@ -2,17 +2,62 @@
 using System.Security.Cryptography;
 using ExemploPOO.Models;
 
-Aluno a1 = new Aluno();
-a1.Nome = "Emerson";
-a1.Idade = 41;
-a1.Email = "teste@teste.com";
-a1.Apresentar();
+Pessoa p1 = new Pessoa("Emerson");
+Aluno a1 = new Aluno("Danielle");
+Professor prof1 = new Professor("Daniela");
 
-Professor p1 = new Professor();
-p1.Nome = "Arthur";
-p1.Idade = 4;
-p1.Salario = 1000;
-p1.Apresentar();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Corrente c = new Corrente();
+// c.Creditar(500);
+// c.ExibirSaldo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Aluno a1 = new Aluno();
+// a1.Nome = "Emerson";
+// a1.Idade = 41;
+// a1.Email = "teste@teste.com";
+// a1.Apresentar();
+
+// Professor p1 = new Professor();
+// p1.Nome = "Arthur";
+// p1.Idade = 4;
+// p1.Salario = 1000;
+// p1.Apresentar();
 
 
 
