@@ -26,3 +26,17 @@ C:/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/obj/Debug/
 /Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/obj/Debug/net7.0/ExemploPOO.pdb
 /Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/obj/Debug/net7.0/ExemploPOO.genruntimeconfig.cache
 /Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/obj/Debug/net7.0/ref/ExemploPOO.dll
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\bin\Debug\net7.0\ExemploPOO.exe
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\bin\Debug\net7.0\ExemploPOO.deps.json
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\bin\Debug\net7.0\ExemploPOO.runtimeconfig.json
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\bin\Debug\net7.0\ExemploPOO.dll
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\bin\Debug\net7.0\ExemploPOO.pdb
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ExemploPOO.dll
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\refint\ExemploPOO.dll
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ExemploPOO.pdb
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ExemploPOO.genruntimeconfig.cache
+C:\Users\Emerson\source\repos\Jose-Emerson-Otavio-da-Silva\ExemploPOO\obj\Debug\net7.0\ref\ExemploPOO.dll
