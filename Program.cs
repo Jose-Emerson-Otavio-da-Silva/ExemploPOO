@@ -1,10 +1,37 @@
 ﻿using System.Reflection;
 using System.Security.Cryptography;
+using ExemploPOO.Interfaces;
 using ExemploPOO.Models;
 
-Pessoa p1 = new Pessoa("Emerson");
-Aluno a1 = new Aluno("Danielle");
-Professor prof1 = new Professor("Daniela");
+//Instanciar classe que implementa uma interface
+ICalculadora calculadora = new Calculadora();
+Console.WriteLine(calculadora.Somar(2, 2));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Emerson");
+// Aluno a1 = new Aluno("Danielle");
+// Professor prof1 = new Professor("Daniela");
 
 
 

@@ -7,9 +7,15 @@ namespace ExemploPOO.Models
 {
     public class Aluno : Pessoa
     {
-        public Aluno(string nome) : base(nome)
+        public Aluno()
         {
 
+        }
+        //O base(nome) informa que estamos passando o valor para a classe pai
+        //Nesse exemplo a classe pae é a classe pessoa
+        public Aluno(string nome) : base(nome)
+        {
+            //Método necessário pois classe pai exige o atributo nome no construtor
         }
         public double Nota { get; set; }
 
