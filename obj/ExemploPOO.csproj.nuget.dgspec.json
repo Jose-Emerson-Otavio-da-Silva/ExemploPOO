@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emerson\\source\\repos\\Jose-Emerson-Otavio-da-Silva\\ExemploPOO\\ExemploPOO.csproj": {}
+    "/Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/ExemploPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emerson\\source\\repos\\Jose-Emerson-Otavio-da-Silva\\ExemploPOO\\ExemploPOO.csproj": {
+    "/Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/ExemploPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emerson\\source\\repos\\Jose-Emerson-Otavio-da-Silva\\ExemploPOO\\ExemploPOO.csproj",
+        "projectUniqueName": "/Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/ExemploPOO.csproj",
         "projectName": "ExemploPOO",
-        "projectPath": "C:\\Users\\Emerson\\source\\repos\\Jose-Emerson-Otavio-da-Silva\\ExemploPOO\\ExemploPOO.csproj",
-        "packagesPath": "C:\\Users\\Emerson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emerson\\source\\repos\\Jose-Emerson-Otavio-da-Silva\\ExemploPOO\\obj\\",
+        "projectPath": "/Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/ExemploPOO.csproj",
+        "packagesPath": "/Users/emerson/.nuget/packages/",
+        "outputPath": "/Volumes/Windows/Users/Emerson/source/repos/Jose-Emerson-Otavio-da-Silva/ExemploPOO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/emerson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
